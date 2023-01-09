@@ -2,24 +2,25 @@ Hi! Thanks for reading my profile README. I'm Brodie and I'm the owner of this a
 
 Status Update: Brushing up on my programming/coding skills to prepare for a MS in Data Science at Indiana University (application submitted Oct 11, 2022)
 
-This is a work-in-progress currently because I just started my GitHub account.
+This is a work-in-progress currently because my GitHub account is still new. 
 I'm going to set the basics of my profile README right now, but it will be 
 mostly empty until I get some more projects under my belt.
 
 -- I'm currently working on --
- - Working through some codecademy courses:
-  - Python 3
-  - Survey of Data Science
+ - Working through DataCamp tracks:
+  - Data Analyst in Python, R, and/or SQL
+  - Statistics practice including but not limited to: Descriptive/Inferential Stats, hypothesis testing, and general experimental design
 
 -- I'm currently learning --
- - Reviewing basic Python and how to work with data sets
+ - Cleaning/Joining dataframes with pandas in Python
+ - Shell scripting and learning bash
 
 -- I'm looking to collaborate on --
- - Intermediate projects in R, Java, and/or Python to build my portfolio
+ - Intermediate projects in R, Python, SQL, and/or bash to build my portfolio
 
 -- I'm looking for help with --
  - General advice on being as prepared as possible for a MS in Data Science without having an undergraduate degree in CS.
- - For reference, I took classes in Python, Java, a bit of C, and taught myself R to an Intermediate Level during undergrad
+ - For reference, I took classes in Python, Java, a bit of C, taught myself some R during undergrad, and currently completing much more on DataCamp
 
 -- Ask me about --
  - Ethics of data management/collection/application
@@ -36,7 +37,7 @@ mostly empty until I get some more projects under my belt.
   - Brodie Schipp
  - Email
   - brodieschipp@gmail.com
- - Username (GitHub, Codecademy, Crunchyroll, etc)
-  - TenthEdict
+ - Github: TenthEdict
+ - DataCamp: brodieschipp
  - Phone Number
   - +1 (765) 617 - 9886
